@@ -7,7 +7,7 @@ Posting Tweets: Allow users to create and post tweets, including text and media 
 Following/Followers: Enable users to follow other users and view their tweets on their timeline.
 Likes and Comments: Implement functionalities for liking tweets and leaving comments.
 Profile Management: Allow users to update their profile information and upload profile pictures.
-Technologies Used
+## Technologies Used
 Backend: Java with Spring Boot, Spring Data JPA for data access, Spring Security for authentication and authorization.
 Frontend: React.js with Axios for HTTP requests and state management.
 Database: MySQL for storing user data and tweets.
