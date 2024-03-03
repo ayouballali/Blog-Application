@@ -7,6 +7,10 @@ Posting Tweets: Allow users to create and post tweets, including text and media 
 Following/Followers: Enable users to follow other users and view their tweets on their timeline.
 Likes and Comments: Implement functionalities for liking tweets and leaving comments.
 Profile Management: Allow users to update their profile information and upload profile pictures.
+
+## Database Design 
+![Untitled](https://github.com/ayouballali/Blog-Application/assets/73221495/342992b8-9fac-4514-984c-c4895d528152)
+
 ## Technologies Used
 Backend: Java with Spring Boot, Spring Data JPA for data access, Spring Security for authentication and authorization.
 Frontend: React.js with Axios for HTTP requests and state management.
